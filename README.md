@@ -177,7 +177,10 @@ jupyter notebook notebooks/anomaly_detection.ipynb
 ---
  
 ## Screenshots
- 
+
+<img width="1500" height="500" alt="time_series_anomalies" src="https://github.com/user-attachments/assets/398d11d5-41a8-4135-be39-2487290e04ef" />
+<img width="1500" height="500" alt="trend_with_anomalies" src="https://github.com/user-attachments/assets/bb027d94-a12f-4e2b-8add-1e2a2a6c0a46" />
+
 <!-- Add visualizations here once available -->
 <!-- ![Anomaly Trends](visualizations/anomaly_trends.png) -->
 <!-- ![Consumption Patterns](visualizations/consumption_patterns.png) -->
